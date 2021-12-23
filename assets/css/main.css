@@ -1883,8 +1883,8 @@ input, select, textarea {
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			box-shadow: inset 0 0 0 2px #2ee4bb;
-			color: #2ee4bb !important;
+			box-shadow: inset 0 0 0 2px #2e8ce4;
+			color: #2e83e4b7 !important;
 		}
 
 		input[type="submit"]:active,
